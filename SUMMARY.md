@@ -2,6 +2,7 @@
 
 * [Home](README.md)
 * [CS Resources](cs-resources/README.md)
+  * [React Learning Notes & More](cs-resources/react-learning-notes-and-more.md)
   * [Algorithms](cs-resources/algorithms.md)
   * [Web Dev](cs-resources/web-dev.md)
   * [CSxBasics](cs-resources/csxbasics.md)
