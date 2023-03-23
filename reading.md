@@ -8,6 +8,10 @@ description: Books I've read, books I'm reading, books that have been influentia
 
 * Virginia Woolf
   1. The Waves
+* Kazuo Ishiguro
+  1. Klara and The Sun
+
+
 
 ### Read
 
