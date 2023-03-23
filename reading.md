@@ -4,16 +4,6 @@ description: Books I've read, books I'm reading, books that have been influentia
 
 # Reading
 
-### Reading
+OKU LINK&#x20;
 
-* Virginia Woolf
-  1. The Waves
-* Kazuo Ishiguro
-  1. Klara and The Sun
-
-
-
-### Read
-
-* Dostoevsky
-  1. Crime and Punishment
+{% embed url="https://oku.club/user/AryaDey?ref=native-share" %}
