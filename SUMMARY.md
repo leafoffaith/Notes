@@ -11,3 +11,4 @@
 * [Reading](reading.md)
 * [Projects](projects/README.md)
   * [Spotify App](projects/spotify-app.md)
+* [Listening Now](listening-now.md)

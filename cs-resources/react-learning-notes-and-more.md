@@ -29,7 +29,7 @@ export default function Card(props) {
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bfe72c23-5a2c-4591-b69b-b90ad42fc754/Untitled.png)
 
-***
+
 
 LOGICAL &&
 
@@ -43,7 +43,7 @@ On the other hand, if **`props.openSpots`** is not equal to 0 (i.e., there are o
 
 So, essentially, the **`&&`** operator in this case is being used to conditionally render the "SOLD OUT" badge based on whether or not there are any open spots available.
 
-***
+
 
 Spread Syntax with object literals while passing props
 
